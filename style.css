@@ -1,0 +1,58 @@
+.btn{
+    border: 5px groove;
+    border-radius:30px ;
+    background-color: brown;
+    padding: 12px 30px;
+    font-weight: bolder;
+    cursor: pointer;
+    color: white;
+}
+.TouristPlace-Card{
+  background-color: darkcyan; 
+  border: 5px double;
+  border-radius: 20px;
+  padding: 30px; 
+  width: 350px;
+  margin:50px;
+  font-weight: bolder;
+  font-style: initial;
+}
+.Food-Card{
+  background-color: darkcyan; 
+  border: 5px double;
+  border-radius: 20px;
+  padding: 30px; 
+  width: 350px;
+  margin:50px;
+  font-weight: bolder;
+  font-style: initial;
+}
+.Fruit-Card{
+  background-color: darkcyan; 
+  border: 5px double;
+  border-radius: 20px;
+  padding: 30px; 
+  width: 350px;
+  margin:50px;
+  font-weight: bolder;
+  font-style: initial;
+}
+.Mobile-Card{
+  background-color: darkcyan; 
+  border: 5px double;
+  border-radius: 20px;
+  padding: 30px; 
+  width: 350px;
+  margin:50px;
+  font-weight: bolder;
+  font-style: initial;
+}
+.place{
+    border: 3px solid black;
+}
+.food{
+    border: 3px solid black;
+}
+.mobile{
+    border: 3px solid black;
+}
